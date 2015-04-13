@@ -1,0 +1,9 @@
+[GENERAL]
+mode = pyglet
+hashtag = twitter2speech
+[CONSUMER]
+key = some_key
+secret = some_secret
+[ACCESS]
+token = some_token
+secret = some_secret
