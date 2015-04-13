@@ -13,4 +13,6 @@ Read tweets aloud.
 
 ## Usage
 
-`python display.py`
+* Create all the Twitter Tokens at https://apps.twitter.com/
+* Record them in `test_config.txt`
+* Run `$ python display.py -f test_config.txt`
